@@ -1,7 +1,9 @@
 
 const HomePage = () => {
   return (
-    <div>Page d'accueil</div>
+    <div className="flex justify-center items-center h-screen w-screen">
+      <p className="">Page d'accueil</p>
+    </div>
   )
 }
 
