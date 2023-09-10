@@ -1,7 +1,9 @@
 
 const Error404 = () => {
   return (
-    <p>Page introuvable</p>
+    <div className="flex justify-center items-center h-screen w-screen text-5xl">
+      <p>Page introuvable</p>
+    </div>
   )
 }
 
